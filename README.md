@@ -47,7 +47,7 @@ this is a take home assignment from Itzfizz-Digital for there Web Development in
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mrkamin/TAIRP-Image-gallery-filtering/issues).
+Feel free to check the [issues page](https://github.com/mrkamin/Itzfizz-Digital-online-CV/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
