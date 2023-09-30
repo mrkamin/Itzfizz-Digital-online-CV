@@ -1,0 +1,27 @@
+{
+  "name": "itzfizzdigital",
+  "version": "1.0.0",
+  "description": "this is a take home assignment from Itzfizz-Digital for there Web Development internship role in this assignment I would make an online Resume for my self",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkamin/Itzfizz-Digital-online-CV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkamin/Itzfizz-Digital-online-CV/issues"
+  },
+  "homepage": "https://github.com/mrkamin/Itzfizz-Digital-online-CV#readme",
+  "devDependencies": {
+    "hint": "^7.1.10",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
