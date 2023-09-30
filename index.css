@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+:root {
+  --bg-color: #0b131e;
+  --bg-color-transparent: #202c3c;
+  --text-color: #fff;
+  --text-color-transparent: #deebf8;
+  --ff: "Lato", sans-serif;
+  --header-bg-color: #21222a;
+  --main-bg-color: #282d35;
+  --brand-color: #61dafb;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--ff);
+  background: var(--text-color-transparent);
+  color: var(--bg-color-transparent);
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+  
+}
+
+.resume-container {
+  border: 1px solid var(--bg-color-transparent);
+  height: 100vh;
+  border-radius: 0.2rem;
+  background: var(--text-color);
+  display: grid;
+  grid-template-columns: 2% 70% 28%;
+}
+
+.side-vortical-line {
+  height: 95vh;
+  width: 10px;
+  background-color: red;
+  border: 2px solid red;
+}
+
+.title {
+  border-bottom: 1px solid var(--bg-color-transparent);
+  height: 62px;
+  width: 98%;
+}
+
+.side-bar {
+  border: none;
+  border-radius: 0.2rem;
+  background-color: aliceblue;
+}
+
+span {
+    width: 10px;
+    height: 10px;
+    border: 1px solid var(--bg-color);
+    background-color: var(--bg-color);
+    margin: 3px;
+}
