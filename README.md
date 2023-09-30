@@ -18,6 +18,9 @@ this is a take home assignment from Itzfizz-Digital for there Web Development in
 
   </ul>
 </details>
+<!-- Live Demo -->
+
+### Github (https://mrkamin.github.io/Itzfizz-Digital-online-CV/)
 
 <!-- Features -->
 
